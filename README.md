@@ -16,12 +16,6 @@ Projeto experimental criado para estudar e compreender o funcionamento de **chat
 
 ---
 
-## 📋 Pré-requisitos
-- Python 3.x  
-- Bibliotecas de NLP (NLTK, spaCy, Rasa, conforme implementado)  
-
----
-
 ## ⚙️ Como usar
 1. Instale o Python  
 2. Clone o repositório:  
